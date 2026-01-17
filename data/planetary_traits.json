@@ -1,0 +1,144 @@
+{
+  "planetary_traits": {
+    "Sun": {
+      "keywords": ["confidence", "leadership", "authority", "vitality", "ego", "father"],
+      "positive": ["confident", "authoritative", "dignified", "generous", "creative"],
+      "negative": ["egoistic", "dominating", "arrogant", "stubborn"],
+      "rules": ["Leo"],
+      "exalted_in": "Aries",
+      "debilitated_in": "Libra",
+      "career_influences": ["government", "administration", "politics", "leadership roles"],
+      "body_parts": ["heart", "spine", "right eye"],
+      "day": "Sunday",
+      "gemstone": "Ruby",
+      "color": "Red, Orange",
+      "metal": "Gold"
+    },
+    "Moon": {
+      "keywords": ["emotions", "mind", "mother", "intuition", "nurturing", "mental peace"],
+      "positive": ["emotional", "nurturing", "intuitive", "caring", "receptive"],
+      "negative": ["moody", "oversensitive", "dependent", "changeable"],
+      "rules": ["Cancer"],
+      "exalted_in": "Taurus",
+      "debilitated_in": "Scorpio",
+      "career_influences": ["hospitality", "healthcare", "nursing", "food industry"],
+      "body_parts": ["mind", "chest", "stomach", "left eye"],
+      "day": "Monday",
+      "gemstone": "Pearl",
+      "color": "White, Silver",
+      "metal": "Silver"
+    },
+    "Mars": {
+      "keywords": ["energy", "courage", "action", "aggression", "competition", "siblings"],
+      "positive": ["courageous", "energetic", "competitive", "protective", "passionate"],
+      "negative": ["aggressive", "impulsive", "angry", "violent", "rash"],
+      "rules": ["Aries", "Scorpio"],
+      "exalted_in": "Capricorn",
+      "debilitated_in": "Cancer",
+      "career_influences": ["military", "sports", "surgery", "engineering", "real estate"],
+      "body_parts": ["muscles", "blood", "head", "genitals"],
+      "day": "Tuesday",
+      "gemstone": "Red Coral",
+      "color": "Red",
+      "metal": "Copper"
+    },
+    "Mercury": {
+      "keywords": ["intelligence", "communication", "business", "learning", "analysis"],
+      "positive": ["intelligent", "witty", "analytical", "communicative", "adaptable"],
+      "negative": ["nervous", "restless", "superficial", "inconsistent"],
+      "rules": ["Gemini", "Virgo"],
+      "exalted_in": "Virgo",
+      "debilitated_in": "Pisces",
+      "career_influences": ["writing", "teaching", "commerce", "media", "technology"],
+      "body_parts": ["nervous system", "skin", "arms", "lungs"],
+      "day": "Wednesday",
+      "gemstone": "Emerald",
+      "color": "Green",
+      "metal": "Bronze"
+    },
+    "Jupiter": {
+      "keywords": ["wisdom", "expansion", "prosperity", "children", "spirituality", "luck"],
+      "positive": ["wise", "optimistic", "generous", "spiritual", "fortunate"],
+      "negative": ["excessive", "overconfident", "lazy", "extravagant"],
+      "rules": ["Sagittarius", "Pisces"],
+      "exalted_in": "Cancer",
+      "debilitated_in": "Capricorn",
+      "career_influences": ["teaching", "law", "philosophy", "finance", "counseling"],
+      "body_parts": ["liver", "hips", "thighs", "fat"],
+      "day": "Thursday",
+      "gemstone": "Yellow Sapphire",
+      "color": "Yellow",
+      "metal": "Gold"
+    },
+    "Venus": {
+      "keywords": ["love", "beauty", "luxury", "relationships", "arts", "comfort"],
+      "positive": ["charming", "artistic", "diplomatic", "loving", "harmonious"],
+      "negative": ["indulgent", "lazy", "superficial", "materialistic"],
+      "rules": ["Taurus", "Libra"],
+      "exalted_in": "Pisces",
+      "debilitated_in": "Virgo",
+      "career_influences": ["arts", "fashion", "beauty", "entertainment", "diplomacy"],
+      "body_parts": ["kidneys", "throat", "reproductive organs"],
+      "day": "Friday",
+      "gemstone": "Diamond",
+      "color": "White, Pink",
+      "metal": "Silver"
+    },
+    "Saturn": {
+      "keywords": ["discipline", "karma", "hard work", "delays", "restrictions", "longevity"],
+      "positive": ["disciplined", "patient", "responsible", "hardworking", "practical"],
+      "negative": ["depressed", "pessimistic", "restricted", "fearful", "cold"],
+      "rules": ["Capricorn", "Aquarius"],
+      "exalted_in": "Libra",
+      "debilitated_in": "Aries",
+      "career_influences": ["labor", "mining", "construction", "service", "research"],
+      "body_parts": ["bones", "teeth", "knees", "joints"],
+      "day": "Saturday",
+      "gemstone": "Blue Sapphire",
+      "color": "Black, Blue",
+      "metal": "Iron"
+    },
+    "Rahu": {
+      "keywords": ["illusion", "obsession", "foreign", "technology", "unconventional"],
+      "positive": ["innovative", "ambitious", "worldly", "tech-savvy"],
+      "negative": ["obsessive", "deceptive", "confused", "manipulative"],
+      "exalted_in": "Taurus",
+      "debilitated_in": "Scorpio",
+      "career_influences": ["technology", "foreign trade", "media", "unconventional fields"],
+      "day": "Saturday",
+      "gemstone": "Hessonite",
+      "color": "Smoky colors"
+    },
+    "Ketu": {
+      "keywords": ["spirituality", "detachment", "past life", "liberation", "research"],
+      "positive": ["spiritual", "intuitive", "detached", "insightful"],
+      "negative": ["isolated", "confused", "directionless", "scattered"],
+      "exalted_in": "Scorpio",
+      "debilitated_in": "Taurus",
+      "career_influences": ["spirituality", "research", "occult", "healing"],
+      "day": "Tuesday",
+      "gemstone": "Cat's Eye",
+      "color": "Grey, Brown"
+    }
+  },
+  "planetary_transits": {
+    "career_focus": {
+      "Sun": "Leadership opportunities and recognition periods",
+      "Jupiter": "Growth, expansion, and new opportunities",
+      "Saturn": "Hard work, discipline, and long-term building",
+      "Mercury": "Communication, networking, and skill development"
+    },
+    "love_focus": {
+      "Venus": "Romance, relationships, and harmony",
+      "Moon": "Emotional connection and nurturing",
+      "Mars": "Passion, attraction, and initiative",
+      "Jupiter": "Commitment and long-term relationships"
+    },
+    "stress_indicators": {
+      "Saturn": "Pressure, delays, and restrictions",
+      "Mars": "Conflict, aggression, and haste",
+      "Rahu": "Confusion, obsession, and illusions",
+      "Ketu": "Detachment, isolation, and uncertainty"
+    }
+  }
+}

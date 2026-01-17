@@ -1,0 +1,320 @@
+{
+  "zodiac_signs": {
+    "Aries": {
+      "element": "Fire",
+      "ruling_planet": "Mars",
+      "quality": "Cardinal",
+      "dates": "March 21 - April 19",
+      "personality_traits": [
+        "courageous",
+        "determined",
+        "confident",
+        "enthusiastic",
+        "optimistic",
+        "honest",
+        "passionate"
+      ],
+      "challenges": [
+        "impatient",
+        "moody",
+        "short-tempered",
+        "impulsive",
+        "aggressive"
+      ],
+      "career_strength": "Leadership, entrepreneurship, sports, military, pioneering roles",
+      "love_style": "Passionate, direct, spontaneous, adventurous",
+      "compatibility": ["Leo", "Sagittarius", "Gemini", "Aquarius"],
+      "lucky_number": [1, 8, 17],
+      "lucky_color": "Red",
+      "lucky_day": "Tuesday",
+      "body_ruler": "Head, face"
+    },
+    "Taurus": {
+      "element": "Earth",
+      "ruling_planet": "Venus",
+      "quality": "Fixed",
+      "dates": "April 20 - May 20",
+      "personality_traits": [
+        "reliable",
+        "patient",
+        "practical",
+        "devoted",
+        "responsible",
+        "stable"
+      ],
+      "challenges": [
+        "stubborn",
+        "possessive",
+        "uncompromising"
+      ],
+      "career_strength": "Banking, finance, agriculture, arts, real estate, luxury goods",
+      "love_style": "Loyal, sensual, stable, affectionate",
+      "compatibility": ["Virgo", "Capricorn", "Cancer", "Pisces"],
+      "lucky_number": [2, 6, 9, 12, 24],
+      "lucky_color": "Green, Pink",
+      "lucky_day": "Friday",
+      "body_ruler": "Neck, throat"
+    },
+    "Gemini": {
+      "element": "Air",
+      "ruling_planet": "Mercury",
+      "quality": "Mutable",
+      "dates": "May 21 - June 20",
+      "personality_traits": [
+        "gentle",
+        "affectionate",
+        "curious",
+        "adaptable",
+        "quick learner",
+        "witty"
+      ],
+      "challenges": [
+        "nervous",
+        "inconsistent",
+        "indecisive"
+      ],
+      "career_strength": "Communication, media, writing, sales, teaching, technology",
+      "love_style": "Playful, intellectual, versatile, communicative",
+      "compatibility": ["Libra", "Aquarius", "Aries", "Leo"],
+      "lucky_number": [5, 7, 14, 23],
+      "lucky_color": "Yellow, Green",
+      "lucky_day": "Wednesday",
+      "body_ruler": "Arms, hands, lungs"
+    },
+    "Cancer": {
+      "element": "Water",
+      "ruling_planet": "Moon",
+      "quality": "Cardinal",
+      "dates": "June 21 - July 22",
+      "personality_traits": [
+        "tenacious",
+        "loyal",
+        "emotional",
+        "sympathetic",
+        "persuasive",
+        "intuitive"
+      ],
+      "challenges": [
+        "moody",
+        "pessimistic",
+        "suspicious",
+        "manipulative",
+        "insecure"
+      ],
+      "career_strength": "Healthcare, education, hospitality, real estate, childcare",
+      "love_style": "Nurturing, protective, emotional, committed",
+      "compatibility": ["Scorpio", "Pisces", "Taurus", "Virgo"],
+      "lucky_number": [2, 3, 15, 20],
+      "lucky_color": "White, Silver",
+      "lucky_day": "Monday",
+      "body_ruler": "Chest, breast, stomach"
+    },
+    "Leo": {
+      "element": "Fire",
+      "ruling_planet": "Sun",
+      "quality": "Fixed",
+      "dates": "July 23 - August 22",
+      "personality_traits": [
+        "creative",
+        "passionate",
+        "generous",
+        "warm-hearted",
+        "cheerful",
+        "humorous"
+      ],
+      "challenges": [
+        "arrogant",
+        "stubborn",
+        "self-centered",
+        "inflexible",
+        "lazy"
+      ],
+      "career_strength": "Leadership, entertainment, politics, creative arts, management",
+      "love_style": "Dramatic, generous, loyal, proud",
+      "compatibility": ["Aries", "Sagittarius", "Gemini", "Libra"],
+      "lucky_number": [1, 3, 10, 19],
+      "lucky_color": "Gold, Orange",
+      "lucky_day": "Sunday",
+      "body_ruler": "Heart, spine, upper back"
+    },
+    "Virgo": {
+      "element": "Earth",
+      "ruling_planet": "Mercury",
+      "quality": "Mutable",
+      "dates": "August 23 - September 22",
+      "personality_traits": [
+        "loyal",
+        "analytical",
+        "kind",
+        "hardworking",
+        "practical"
+      ],
+      "challenges": [
+        "shyness",
+        "worry",
+        "overly critical",
+        "perfectionist"
+      ],
+      "career_strength": "Healthcare, analysis, editing, service, accounting, research",
+      "love_style": "Devoted, analytical, helpful, reserved",
+      "compatibility": ["Taurus", "Capricorn", "Cancer", "Scorpio"],
+      "lucky_number": [5, 14, 15, 23, 32],
+      "lucky_color": "Grey, Beige, Pale Yellow",
+      "lucky_day": "Wednesday",
+      "body_ruler": "Digestive system, intestines"
+    },
+    "Libra": {
+      "element": "Air",
+      "ruling_planet": "Venus",
+      "quality": "Cardinal",
+      "dates": "September 23 - October 22",
+      "personality_traits": [
+        "cooperative",
+        "diplomatic",
+        "gracious",
+        "fair-minded",
+        "social"
+      ],
+      "challenges": [
+        "indecisive",
+        "avoids confrontations",
+        "self-pity"
+      ],
+      "career_strength": "Law, diplomacy, arts, design, counseling, mediation",
+      "love_style": "Romantic, balanced, harmonious, partnership-oriented",
+      "compatibility": ["Gemini", "Aquarius", "Leo", "Sagittarius"],
+      "lucky_number": [4, 6, 13, 15, 24],
+      "lucky_color": "Pink, Green",
+      "lucky_day": "Friday",
+      "body_ruler": "Kidneys, lower back"
+    },
+    "Scorpio": {
+      "element": "Water",
+      "ruling_planet": "Mars, Pluto",
+      "quality": "Fixed",
+      "dates": "October 23 - November 21",
+      "personality_traits": [
+        "resourceful",
+        "brave",
+        "passionate",
+        "stubborn",
+        "loyal",
+        "ambitious"
+      ],
+      "challenges": [
+        "distrusting",
+        "jealous",
+        "secretive",
+        "violent"
+      ],
+      "career_strength": "Research, investigation, psychology, surgery, occult sciences",
+      "love_style": "Intense, passionate, loyal, mysterious",
+      "compatibility": ["Cancer", "Pisces", "Virgo", "Capricorn"],
+      "lucky_number": [8, 11, 18, 22],
+      "lucky_color": "Scarlet, Red, Rust",
+      "lucky_day": "Tuesday",
+      "body_ruler": "Reproductive organs"
+    },
+    "Sagittarius": {
+      "element": "Fire",
+      "ruling_planet": "Jupiter",
+      "quality": "Mutable",
+      "dates": "November 22 - December 21",
+      "personality_traits": [
+        "generous",
+        "idealistic",
+        "great sense of humor",
+        "philosophical"
+      ],
+      "challenges": [
+        "promises more than can deliver",
+        "impatient",
+        "tactless"
+      ],
+      "career_strength": "Teaching, travel, publishing, philosophy, higher education",
+      "love_style": "Adventurous, honest, optimistic, freedom-loving",
+      "compatibility": ["Aries", "Leo", "Libra", "Aquarius"],
+      "lucky_number": [3, 7, 9, 12, 21],
+      "lucky_color": "Blue, Purple",
+      "lucky_day": "Thursday",
+      "body_ruler": "Hips, thighs, liver"
+    },
+    "Capricorn": {
+      "element": "Earth",
+      "ruling_planet": "Saturn",
+      "quality": "Cardinal",
+      "dates": "December 22 - January 19",
+      "personality_traits": [
+        "responsible",
+        "disciplined",
+        "self-control",
+        "good managers"
+      ],
+      "challenges": [
+        "know-it-all",
+        "unforgiving",
+        "condescending",
+        "pessimistic"
+      ],
+      "career_strength": "Management, administration, business, government, long-term projects",
+      "love_style": "Traditional, committed, responsible, patient",
+      "compatibility": ["Taurus", "Virgo", "Scorpio", "Pisces"],
+      "lucky_number": [4, 8, 13, 22],
+      "lucky_color": "Brown, Black",
+      "lucky_day": "Saturday",
+      "body_ruler": "Bones, knees, teeth"
+    },
+    "Aquarius": {
+      "element": "Air",
+      "ruling_planet": "Saturn, Uranus",
+      "quality": "Fixed",
+      "dates": "January 20 - February 18",
+      "personality_traits": [
+        "progressive",
+        "original",
+        "independent",
+        "humanitarian"
+      ],
+      "challenges": [
+        "temperamental",
+        "uncompromising",
+        "aloof"
+      ],
+      "career_strength": "Technology, social work, innovation, science, humanitarian work",
+      "love_style": "Unconventional, intellectual, friendly, independent",
+      "compatibility": ["Gemini", "Libra", "Sagittarius", "Aries"],
+      "lucky_number": [4, 7, 11, 22, 29],
+      "lucky_color": "Light Blue, Silver",
+      "lucky_day": "Saturday",
+      "body_ruler": "Ankles, circulatory system"
+    },
+    "Pisces": {
+      "element": "Water",
+      "ruling_planet": "Jupiter, Neptune",
+      "quality": "Mutable",
+      "dates": "February 19 - March 20",
+      "personality_traits": [
+        "compassionate",
+        "artistic",
+        "intuitive",
+        "gentle",
+        "wise",
+        "musical"
+      ],
+      "challenges": [
+        "fearful",
+        "overly trusting",
+        "sad",
+        "escape reality",
+        "victim mentality"
+      ],
+      "career_strength": "Healing, spirituality, arts, charity, counseling, creative fields",
+      "love_style": "Romantic, compassionate, selfless, dreamy",
+      "compatibility": ["Cancer", "Scorpio", "Taurus", "Capricorn"],
+      "lucky_number": [3, 9, 12, 15, 18, 24],
+      "lucky_color": "Sea Green, Lavender",
+      "lucky_day": "Thursday",
+      "body_ruler": "Feet, immune system"
+    }
+  }
+}

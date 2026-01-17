@@ -1,0 +1,43 @@
+# Core Framework
+fastapi
+uvicorn[standard]
+pydantic
+python-multipart
+
+# LangChain Core
+langchain
+langchain-core
+langchain-community
+
+# LLM Integrations
+langchain-openai
+langchain-ollama
+
+# Vector Stores
+langchain-chroma
+faiss-cpu
+
+# Embeddings
+sentence-transformers
+
+# Astrology Calculations
+pytz
+swisseph
+
+# Translation (for Hindi support)
+googletrans
+deep-translator
+
+# MongoDB
+pymongo
+motor
+
+# Utilities
+python-dotenv
+requests
+pyyaml
+
+# Testing
+pytest
+pytest-asyncio
+httpx
