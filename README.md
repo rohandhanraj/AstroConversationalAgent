@@ -82,7 +82,7 @@ powershell -c "irm https://astral.sh/uv/install.ps1 | iex"
 pip install uv
 ```
 
-Why UV? It's **10-100x faster** than pip! See [UV_GUIDE.md](UV_GUIDE.md) for details.
+Why UV? It's **10-100x faster** than pip!
 
 ### Step 2: Clone and Setup
 
@@ -176,7 +176,6 @@ If you're using **UV** for package management (recommended), dependency installa
 - First install: ~12 seconds (vs ~120 seconds with pip)
 - Cached install: ~2 seconds (vs ~90 seconds with pip)
 
-See [UV_GUIDE.md](UV_GUIDE.md) for complete UV documentation.
 
 ### API Documentation
 
